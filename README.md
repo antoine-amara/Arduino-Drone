@@ -7,4 +7,4 @@ Pour ce projet j'ai décidé de suivre le tuto suivant:
 
 Quelque changement sont à prévoir comme les contrôle du drône.
 
-La première étape est de raccordé un gyroscope à l'arduino.
+La première étape est de raccordé un gyroscope à l'arduino. (OK)
